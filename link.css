@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit&display=swap');
+
+h1{
+    font-size: 5rem;
+    text-decoration: underline;
+}
+
+.p1{
+    font-size: 2rem;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: peru;
+}
+
+a:visited{
+    color: gold;
+}
+
+.link1:hover{
+    color: red;
+    background-color: grey;
+    font-size: 3rem;
+}
+
+a:active{
+    color: blue;
+}
+
